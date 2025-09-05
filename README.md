@@ -70,9 +70,9 @@ Here are some of the projects I’ve worked on:
 
 ## 📫 Connect with Me
 
-:globe_with_meridians: [**Facebook**](https://facebook.com/KimsunLy)
-:tv: [**YouTube**](https://youtube.com/KimsunLy)
-:camera: [**Instagram**](https://instagram.com/Kimsunly)
+:globe_with_meridians: [**Facebook**]([https://facebook.com/KimsunLy](https://www.facebook.com/kimsun.ly.2025))
+:tv: [**YouTube**]([https://youtube.com/KimsunLy](https://www.youtube.com/@KimsunLy-n9i))
+:camera: [**Instagram**]([https://instagram.com/Kimsunly](https://www.instagram.com/kimsun_ly))
 :briefcase: [**LinkedIn**](https://linkedin.com/in/KimsunLy)
 :pencil: [**Medium**](https://medium.com/@KimsunLy)
 :bird: [**X**](https://x.com/KimsunLy)
