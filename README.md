@@ -73,9 +73,8 @@ Here are some of the projects I’ve worked on:
 :globe_with_meridians: [**Facebook**](https://www.facebook.com/kimsun.ly.2025)
 :tv: [**YouTube**](https://www.youtube.com/@KimsunLy-n9i)
 :camera: [**Instagram**](https://www.instagram.com/kimsun_ly)
-:briefcase: [**LinkedIn**](https://linkedin.com/in/KimsunLy)
-:pencil: [**Medium**](https://medium.com/@KimsunLy)
-:bird: [**X**](https://x.com/KimsunLy)
+:briefcase: [**LinkedIn**](https://www.linkedin.com/in/kimsun-ly-056008362)
+:pencil: [**Medium**](https://medium.com/@kimsunly.49)
 :envelope: [**Telegram**](https://t.me/Kimsun_Ly)
 
 
