@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - 🌐 Building projects that help **communities and education**.  
-- 🏫 Studied **Grade 12 (GESL)** at **Paññāsāstra International School (PUC)**.  
+- 🏫 Studied **English Level 12 (GESL)** at **Paññāsāstra International School (PUC)**.  
 - 🔎 Interested in **AI/ML, Cloud Computing, Full-Stack & Mobile Development**.  
 - 🎯 Goal: Become a **skilled software engineer** and future **tech innovator**.  
 
