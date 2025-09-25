@@ -1,6 +1,6 @@
 # 👋 💻 Hi, I'm Kimsun Ly
 
-🎓 **Year 2 Information Technology & Engineering Student** at **Royal University of Phnom Penh (RUPP)**  
+🎓 **Year 3 semester 1 Information Technology & Engineering Student** at **Royal University of Phnom Penh (RUPP)**  
 💻 **Goal Career : Full-Stack & Mobile Developer** | 🚀 Passionate about **AI, Cloud, and Software Development**  
 🌱 *Always learning, always building.*  
 
